@@ -10,7 +10,7 @@
 
 ## Installation
 
-To run StarGazeHub locally, follow these steps:
+To run MovieFinder locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/claudiocello/MovieFinder.git`
 2. Install dependencies: `npm install` or `yarn install`
